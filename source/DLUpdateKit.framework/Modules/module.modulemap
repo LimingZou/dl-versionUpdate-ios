@@ -1,0 +1,6 @@
+framework module DLUpdateKit {
+  umbrella header "DLUpdateKit.h"
+
+  export *
+  module * { export * }
+}
